@@ -1,7 +1,7 @@
 :cowboy_hat_face: 
 Hay, how's it going!
 
-My name is Elias and I am a data analyst born in Tijuan, Mexico :mexico:, raised in Georgia, USA :us: .
+My name is Elias and I am a data analyst based in Georgia:peach:, USA! .
 
 - :man_student: I'm a Computer Science major.
 - 👀 I’m interested in all things technology related.

@@ -1,5 +1,5 @@
 :cowboy_hat_face: 
-Hay, how's it going!
+Hey, how's it going!
 
 My name is Elias and I am a data analyst based in Georgia:peach:, USA! .
 

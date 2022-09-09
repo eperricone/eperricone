@@ -1,5 +1,5 @@
-Hay, how's it going!
 :cowboy_hat_face: 
+Hay, how's it going!
 - 👋 Hi, I’m @eperricone
 - 👀 I’m interested in all things technology related.
 - 🌱 I’m currently learning data visualization and web applications. 

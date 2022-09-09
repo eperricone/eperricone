@@ -3,8 +3,7 @@ Hay, how's it going!
 
 My name is Elias and I am a data analyst from Georgia, USA.
 
-:man_student:
-- I'm a Computer Science major.
+- :man_student: I'm a Computer Science major.
 - 👀 I’m interested in all things technology related.
 - 🌱 I’m currently learning data visualization and web applications. 
 - 💞️ I’m looking to collaborate on data driven python projects.
